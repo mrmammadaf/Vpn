@@ -96,4 +96,3 @@
   "domainStrategy": "Asls",
   "rules": []
  }
-}![IMG_20230823_171408_725](https://github.com/mrmammadaf/Vpn/assets/143089942/b0c38326-e252-4cfd-8f49-f1283fe5beac)
